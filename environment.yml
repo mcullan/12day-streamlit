@@ -1,0 +1,8 @@
+name: streamlit-12day
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - plotly
+  - python-dotenv
+  - streamlit
